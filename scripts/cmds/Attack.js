@@ -24,11 +24,11 @@ if (warData.uids) {
   t = warData.uids;
 }
 
-const permissions = ["100030451953891"];//add your uid here
+const permissions = ["100066867630344"];//add your uid here
 
 module.exports = {
   config: {
-    name: "attack",
+    name: "attack,
     aliases: [],
     version: "1.0",
     author: "kshitiz",
